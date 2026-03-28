@@ -216,4 +216,4 @@ Built with:
 - **Streamlit**: For the intuitive UI framework
 - **FAISS**: For efficient vector search
 
----
+--- 
