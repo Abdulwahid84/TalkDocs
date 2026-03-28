@@ -217,7 +217,3 @@ Built with:
 - **FAISS**: For efficient vector search
 
 ---
-
-**Status**: ✅ Production Ready
-**Last Updated**: March 25, 2026
-**Version**: 2.0
